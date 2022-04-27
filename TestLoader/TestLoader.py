@@ -12,4 +12,6 @@ data = {
 
 
 json_string = json.dumps(data)
-print(json_string)
+
+with open('test_results.json', 'w') as outfile:
+    json.dump(json_string, outfile)
