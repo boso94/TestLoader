@@ -5,7 +5,7 @@ data = {
         {
             'name' : 'U1',
             'device' : 'hololens',
-            'yime' : '57'
+            'time' : '57'
         }
     ]
 }
