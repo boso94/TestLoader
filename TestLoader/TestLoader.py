@@ -1,21 +1,11 @@
 import json
 
 data = {
-    'employees' : [
+    '27042022' : [
         {
-            'name' : 'John Doe',
-            'department' : 'Marketing',
-            'place' : 'Remote'
-        },
-        {
-            'name' : 'Jane Doe',
-            'department' : 'Software Engineering',
-            'place' : 'Remote'
-        },
-        {
-            'name' : 'Don Joe',
-            'department' : 'Software Engineering',
-            'place' : 'Office'
+            'name' : 'U1',
+            'device' : 'hololens',
+            'yime' : '57'
         }
     ]
 }
